@@ -1,5 +1,5 @@
 {
-	"geode": "4.1.2",
+	"geode": "4.3.1",
 	"version": "v1.0.8",
 	"id": "bitz.moregames",
 	"name": "MoreGames",
@@ -7,7 +7,9 @@
 	"description": "All free Geometry Dash games within a single mod!",
 	"gd": {
 		"win": "2.2074",
-		"android": "2.2074"
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
 	},
 	"early-load": true,
 	"links": {
